@@ -1,0 +1,27 @@
+# Core DS/ML
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+prophet
+xgboost
+tensorflow
+
+# EDA & Notebooks
+ydata-profiling
+notebook
+jupyterlab
+
+# Web Interfaces
+streamlit
+fastapi
+uvicorn
+
+# Testing
+pytest
+
+# Big Data / Engineering
+pyarrow
+pyspark
+sqlalchemy
